@@ -17,11 +17,11 @@ deep learning) for continuous fraud scoring.
 
 ### Expectations:
 
-§ Accuracy metrics (Precision, Recall, F1-Score).
+§ [Accuracy metrics (Precision, Recall, F1-Score).](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
-§ Visualization of live fraud detection.
+§ [Visualization of live fraud detection.](https://www.pcisecuritystandards.org/)
 
-§ Documentation on model interpretability (e.g., SHAP, LIME).
+§ [Documentation on model interpretability (e.g., SHAP, LIME).](https://stripe.com/docs/api)
 
 ### References:
 
