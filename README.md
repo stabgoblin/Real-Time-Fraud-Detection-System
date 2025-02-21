@@ -29,4 +29,4 @@ deep learning) for continuous fraud scoring.
 
 § [PCI DSS Guidelines](https://www.pcisecuritystandards.org/)
 
-§ [Stripe API Docs for Payment Data](example reference)(https://stripe.com/docs/api)
+§ [Stripe API Docs for Payment Data (example reference)](https://stripe.com/docs/api)
