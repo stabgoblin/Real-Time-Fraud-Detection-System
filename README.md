@@ -17,16 +17,16 @@ deep learning) for continuous fraud scoring.
 
 ### Expectations:
 
-§ [Accuracy metrics (Precision, Recall, F1-Score).](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+§ Accuracy metrics (Precision, Recall, F1-Score).
 
-§ [Visualization of live fraud detection.](https://www.pcisecuritystandards.org/)
+§ Visualization of live fraud detection.
 
-§ [Documentation on model interpretability (e.g., SHAP, LIME).](https://stripe.com/docs/api)
+§ Documentation on model interpretability (e.g., SHAP, LIME).
 
 ### References:
 
-§ Kaggle Credit Card Fraud Detection Dataset
+§ [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
-§ PCI DSS Guidelines
+§ [PCI DSS Guidelines](https://www.pcisecuritystandards.org/)
 
-§ Stripe API Docs for Payment Data (example reference)
+§ [Stripe API Docs for Payment Data](example reference)(https://stripe.com/docs/api)
